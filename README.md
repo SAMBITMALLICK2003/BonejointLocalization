@@ -30,4 +30,4 @@ Saved Models are available at <a href="https://drive.google.com/drive/folders/1l
 <hr />
 
 <h2>Contact</h2>
-For any queries, please contact: <a href="mailto:soham.basu07@gmail.com">soham.basu07@gmail.com</a>
+For any queries, please contact: <a href="sambit.mallick.ece25@heritageit.edu.in">sambit.mallick.ece25@heritageit.edu.in</a>
